@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I'm currently working on getting used to working on projects on GitHub
+Moderate experience in MATLAB and Python, as well as some experience with Java and C++, and worked on several projects in Arduino utilizing Raspberry PI.
 
-and working in Jupyter and Pythong again after a long break. I've learned 
+Seeking to hone my skills in the area of AI and machine learning through Python.
 
-Java, C++, and MATLAB before and I am pretty comfortable with those languages.
-
-You can contact me through my email : *mnmodi@iastate.edu*
+Several previous projects on here for different classes and interests.
